@@ -1,0 +1,16 @@
+#logo
+{
+    color:crimson;
+}
+li{
+    list-style-type: none;
+}
+h5{
+    color: darkred;
+}
+.gri{
+    background-color: dimgray;
+}
+body{
+    background-color: #E9ECEF;
+}
